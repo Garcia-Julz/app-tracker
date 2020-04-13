@@ -16,6 +16,7 @@ local_settings.py
 
 # dotenv
 .env
+pyvenv.cfg
 
 # virtualenv
 apptrackerenv/
